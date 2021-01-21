@@ -1,16 +1,9 @@
-# object_detection
+# mlkit_OCR
 
-A new Flutter project.
+Offline mobile camera & gallery image optical character recognition using firebase mlkit.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots\Screenshot_2021-01-21-20-36-28.png" width="350em" hspace=10 vspace=20/><img src="screenshots\Screenshot_2021-01-21-20-38-07.png" width="350em" hspace=10 vspace=20/><img src="screenshots\Screenshot_2021-01-21-20-34-58.png" width="350em" hspace=10 vspace=20/><img src="screenshots\Screenshot_2021-01-21-20-40-33.png" width="350em" hspace=10 vspace=20/><img src="screenshots\Screenshot_2021-01-21-20-39-55" width="350em" hspace=10 vspace=20/>
